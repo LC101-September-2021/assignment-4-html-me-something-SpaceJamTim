@@ -3,10 +3,14 @@ p {
  margin: 10%;
  padding: 5%;
 }
-.Nintendo { 
-color: gold;
+body {
+margin: 8px;
+display: block;
+}
+.mainHeading { 
+color: red;
 
 }
 #DonkeyKong {
-    background-color: crimson;
+    background-color: yellow;
 }
